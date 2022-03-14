@@ -5,9 +5,9 @@ https://www.kaggle.com/carlsonhoo/university-social-anxiety-survey/version/3
 Atribut			Tipe				Keterangan
 Timestamp		Numerik Interval		Stempel waktu responden menjawab survey (Bulan/Hari/Tahun Jam/Menit/Detik)
 Gender			Diskrit Nominal			Jenis kelamin responden (Male atau Female)
-Student			Diskrit Nominal				Status pelajar responden (Yes atau No)
+Student			Diskrit Nominal			Status pelajar responden (Yes atau No)
 Age			Numerik Rasio			Rentang umur responden (20-Below, 21-30, 31-40)
-Marital			Diskrit Nominal				Status penikahan responden (Single atau Married)
+Marital			Diskrit Nominal			Status penikahan responden (Single atau Married)
 Q1			Numerik Rasio			Responden menggunakan sosial media (Berapa jam responden menggunakan sosial media)
 Q2			Numerik Interval		Responden sebagai pusat perhatian (1 sampai 5)
 Q3			Numerik Interval		Responden bekerja ketika diamati (1 sampai 5)
